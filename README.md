@@ -2,7 +2,7 @@
 
 This project demonstrates a simple **face recognition system** using Python. It detects and recognizes a known face (e.g., *Lionel Messi*) from a webcam feed in real time and compares it against unknown faces.
 
-## ⚙️ Requirements
+##  Requirements
 
 Make sure you have **Python 3.8+** installed.
 
@@ -14,7 +14,7 @@ pip install numpy
 pip install face_recognition
 ```
 
-> ⚠️ **Note:**  
+>  **Note:**  
 > The `face_recognition` library requires `dlib`.  
 > On some systems, you may need to install CMake and Visual Studio Build Tools (on Windows) or `cmake`, `boost`, and `python3-dev` (on Linux/macOS) before installing.
 
@@ -26,7 +26,7 @@ pip install face_recognition
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone the repository:
    ```bash
@@ -49,7 +49,7 @@ pip install face_recognition
 
 ---
 
-## 🧩 Libraries Used
+##  Libraries Used
 
 | Library | Purpose |
 |----------|----------|
@@ -59,19 +59,19 @@ pip install face_recognition
 
 ---
 
-## 🖼️ Example Output
+##  Example Output
 
 - **Known Face (Messi):** Detected and labeled correctly.
-<img width="300" height="380" alt="Known" src="https://github.com/user-attachments/assets/ca2bb52b-f4cc-4b80-8866-e2b42b4467b6" />
+<img width="280" height="360" alt="Known" src="https://github.com/user-attachments/assets/ca2bb52b-f4cc-4b80-8866-e2b42b4467b6" />
 
 - **Unknown Face:** Shown as "Unknown" in the video feed.
-<img width="300" height="380" alt="unknown" src="https://github.com/user-attachments/assets/917b1546-a343-466a-b630-b0905705948d" />
+<img width="280" height="360" alt="unknown" src="https://github.com/user-attachments/assets/917b1546-a343-466a-b630-b0905705948d" />
 
 
 
 ---
 
-## 💡 Future Improvements
+##  Future Improvements
 - Add multiple known faces.  
 - Use Haar cascades or deep learning models for emotion detection.  
 - Deploy as a standalone app using Streamlit or Flask.
