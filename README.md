@@ -1,4 +1,4 @@
-# Face_Detection_System
+# Face_Recognition_System
 
 This project demonstrates a simple **face recognition system** using Python. It detects and recognizes a known face (e.g., *Lionel Messi*) from a webcam feed in real time and compares it against unknown faces.
 
