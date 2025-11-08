@@ -62,10 +62,10 @@ pip install face_recognition
 ## 🖼️ Example Output
 
 - **Known Face (Messi):** Detected and labeled correctly.
-  <img width="426" height="519" alt="Known" src="https://github.com/user-attachments/assets/ca2bb52b-f4cc-4b80-8866-e2b42b4467b6" />
+<img width="400" height="480" alt="Known" src="https://github.com/user-attachments/assets/ca2bb52b-f4cc-4b80-8866-e2b42b4467b6" />
 
 - **Unknown Face:** Shown as "Unknown" in the video feed.
-<img width="434" height="555" alt="unknown" src="https://github.com/user-attachments/assets/917b1546-a343-466a-b630-b0905705948d" />
+<img width="400" height="480" alt="unknown" src="https://github.com/user-attachments/assets/917b1546-a343-466a-b630-b0905705948d" />
 
 
 
