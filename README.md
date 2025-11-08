@@ -35,8 +35,7 @@ pip install face_recognition
    ```
 
 2. Place your known and unknown images in the appropriate folders:
-   - `known_faces/messi.jpg`
-   - `unknown_faces/unknown.jpg`
+   - `messi.jpg`
 
 3. Open and run the notebook:
    ```bash
@@ -62,8 +61,13 @@ pip install face_recognition
 
 ## 🖼️ Example Output
 
-- **Known Face (Messi):** Detected and labeled correctly.  
+- **Known Face (Messi):** Detected and labeled correctly.
+  <img width="426" height="519" alt="Known" src="https://github.com/user-attachments/assets/ca2bb52b-f4cc-4b80-8866-e2b42b4467b6" />
+
 - **Unknown Face:** Shown as "Unknown" in the video feed.
+<img width="434" height="555" alt="unknown" src="https://github.com/user-attachments/assets/917b1546-a343-466a-b630-b0905705948d" />
+
+
 
 ---
 
