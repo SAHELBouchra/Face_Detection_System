@@ -30,7 +30,7 @@ pip install face_recognition
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/Face_Detection.git
+   git clone https://github.com/<SAHELBouchra>/Face_Detection.git
    cd Face_Detection
    ```
 
