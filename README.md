@@ -34,7 +34,7 @@ pip install face_recognition
    cd Face_Detection
    ```
 
-2. Place your known and unknown images in the appropriate folders:
+2. Place your known image in the appropriate folder:
    - `messi.jpg`
 
 3. Open and run the notebook:
